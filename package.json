@@ -1,0 +1,26 @@
+{
+  "name": "node_code",
+  "version": "1.0.0",
+  "description": "Practice node basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohanputtanna/node.git"
+  },
+  "author": "Mohan Puttanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohanputtanna/node/issues"
+  },
+  "homepage": "https://github.com/mohanputtanna/node#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
